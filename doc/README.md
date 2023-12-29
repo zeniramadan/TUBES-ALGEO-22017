@@ -39,7 +39,7 @@ Sub menu determinan matriks
 - Masukan Pilihanmu (1-2):
 
 ## Installation
-Cara insttalasi program ini cukup mudah yaitu dengan membuka file source.exe yang ada di folder bin. jika file source.exe tidak bisa di buka, maka pilih more info lalu pilih run anyway.
+Cara instalasi program ini cukup mudah yaitu dengan membuka file source.exe yang ada di folder bin. jika file source.exe tidak bisa di buka, maka pilih more info lalu pilih run anyway.
 
 ## Credit
 Program ini dirancang untuk memenuhi tugas Ujian Akhir Semester oleh kelompok 3 kelas IF III A yang beranggotakan 5 orang, diantaranya:
