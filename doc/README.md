@@ -50,7 +50,3 @@ Program ini dirancang untuk memenuhi tugas Ujian Akhir Semester oleh kelompok 3 
 - Hasna Farhatul U (10222068)
 - Aa Afriz M.G.A (10222147)
 
-
-## License
-
-[MIT](LICENSE)
